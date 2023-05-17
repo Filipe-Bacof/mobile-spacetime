@@ -60,7 +60,7 @@ export default function App() {
       </View>
 
       <Text className="text-center font-body text-sm leading-relaxed text-gray-200">
-        Feito com 💜 no NLW da Rocketseat
+        Feito por Filipe Bacof no NLW da Rocketseat
       </Text>
 
       <StatusBar style="light" translucent />
